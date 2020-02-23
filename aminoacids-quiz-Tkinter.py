@@ -2,7 +2,8 @@
 
 # For Python 3.6.9, Tkinter 8.6
 # Author: Michal Marszalek
-# Simple script, which is sort of a quiz with GUI based on Tkinter module to Python, that lets you check your knowledge of aminoacid naming, i.e. one letter and three letters names.
+# Simple script, which is sort of a quiz with GUI based on Tkinter module to Python, 
+# that lets you check your knowledge of aminoacid naming, i.e. one letter and three letters names.
 
 import tkinter as tk
 import random
